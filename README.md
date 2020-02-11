@@ -1,2 +1,3 @@
 # ED-Akaryakit-Projesi
-akaryakıt otomasyonu için geliştirilmiş basit kullanıcı arayüzü
+Akaryakıt otomasyonu için geliştirilmiş basit kullanıcı arayüzü
+C# ve metroUI ile geliştirildi..
