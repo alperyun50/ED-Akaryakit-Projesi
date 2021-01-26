@@ -1,3 +1,2 @@
 # ED-Akaryakit-Projesi
-Akaryakıt otomasyonu için geliştirilmiş basit kullanıcı arayüzü
-C# ve metroUI ile geliştirildi..
+Simple Liquid fuel automation and tracking project with C# and metro UI framework..
